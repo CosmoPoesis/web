@@ -21,7 +21,8 @@
 title: Cosmo Poesis
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  All is cosmo poesis, in one form or another
+  All is cosmo poiesis, in one form or another; 
+  All poiesis is poesis, becoming
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
